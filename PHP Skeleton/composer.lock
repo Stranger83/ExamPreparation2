@@ -2032,7 +2032,7 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.3.5",
+            "version": "4.4.50",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
